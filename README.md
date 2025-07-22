@@ -1,4 +1,4 @@
-# 🤖 Hand_Tracker
+# 🤖 Hand_Tracker_Demo
 
 A gesture-based hand tracking **demo** application built using **OpenCV** and **MediaPipe**. This tool allows you to interact with your display through finger gestures, and can be calibrated to any screen size or orientation.
 
