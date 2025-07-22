@@ -1,8 +1,6 @@
 import cv2
 import mediapipe as mp
 import threading
-import sys
-sys.path.append('/home/ihit2011/EspioProjects/EspioHandTrack')
 from gui import *
 import time
 
